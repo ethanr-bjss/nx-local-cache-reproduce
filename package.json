@@ -10,7 +10,7 @@
     "build": "nx run-many --target=build --all --exclude=nx-local-cache-reproduce"
   },
   "devDependencies": {
-    "nx": "^19.8.5"
+    "nx": "^20.0.13"
   },
   "packageManager": "pnpm@9.7.1",
   "engines": {
