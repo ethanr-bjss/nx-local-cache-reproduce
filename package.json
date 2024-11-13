@@ -1,0 +1,19 @@
+{
+  "name": "nx-local-cache-reproduce",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethanr-bjss/nx-local-cache-reproduce.git"
+  },
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "nx run-many --target=build --all --exclude=nx-local-cache-reproduce"
+  },
+  "devDependencies": {
+    "nx": "^19.8.5"
+  },
+  "packageManager": "pnpm@9.7.1",
+  "engines": {
+    "node": ">=20"
+  }
+}

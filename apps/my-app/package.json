@@ -1,0 +1,19 @@
+{
+  "name": "my-app",
+  "version": "0.0.0",
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "lint": "echo 'No lint available' && exit 0",
+    "test": "echo 'No tests available' && exit 0"
+  },
+  "type": "module",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.16.12",
+    "typescript": "~5.5.4"
+  },
+  "packageManager": "pnpm@9.7.1"
+}

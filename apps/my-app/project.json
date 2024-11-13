@@ -1,0 +1,8 @@
+{
+  "name": "my-app",
+  "targets": {
+    "build": {
+      "cache": true
+    }
+  }
+}
