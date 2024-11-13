@@ -60,3 +60,6 @@ jobs:
         env:
           NG_BUILD_MAX_WORKERS: 1
         run: 'pnpm build'
+
+      - name: 'Report'
+        run: 'pnpm nx report'
